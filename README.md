@@ -8,6 +8,7 @@
 
 A real-time, data-driven web application built to model, predict, and mitigate supply chain risks specific to the South African logistics landscape. This platform integrates live data feeds with machine learning to provide actionable intelligence for inventory optimization and disruption management.
 
+![Dashboard Screenshot](images/dashboard-example.png)
 
 ## 🚀 Features
 
