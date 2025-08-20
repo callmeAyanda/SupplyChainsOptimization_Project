@@ -53,7 +53,7 @@ sa-supply-chain-optimizer/
 │   ├── sample_delays.csv
 │   └── historical_demand.csv
 │
-└── assets/                   # Directory for images, icons, etc.
+└── images/                   # Directory for images, icons, etc.
     └── screenshot.png
 
 ## 📊 Data Sources
