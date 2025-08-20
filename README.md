@@ -1,6 +1,6 @@
 # 🇿🇦 South African Supply Chain Intelligence & Optimization Platform
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://baseurl.streamlit.app//)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://supply-chains-project.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/UI%20Framework-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -27,7 +27,7 @@ A real-time, data-driven web application built to model, predict, and mitigate s
 | **ML & Forecasting** | `Facebook Prophet`, `Transformers (Hugging Face)`, `CVXPY` |
 | **Data Acquisition** | `Requests`, `BeautifulSoup4`, `REST APIs` |
 | **Geospatial** | `Geopy`, `Plotly Express` |
-| **Deployment** | `Docker`, `AWS EC2`/`Heroku` (optional) |
+| **Deployment** | `Streamlit` |
 
 ## 📈 Key Performance Metrics (Business Impact)
 
