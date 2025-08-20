@@ -1,0 +1,12 @@
+# requirements.txt
+streamlit
+plotly
+pandas
+numpy
+geopy
+transformers
+prophet
+cvxpy
+requests
+beautifulsoup4
+pytz
