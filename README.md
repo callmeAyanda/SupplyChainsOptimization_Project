@@ -54,7 +54,7 @@ sa-supply-chain-optimizer/
 │   └── historical_demand.csv
 │
 └── images/                   # Directory for images, icons, etc.
-    └── screenshot.png
+    └── dashboard-example.png
 
 ## 📊 Data Sources
 
